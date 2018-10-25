@@ -1,0 +1,70 @@
+{
+  "_from": "@handsontable/react",
+  "_id": "@handsontable/react@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-xrWj+8eoXuCfJkD5U6B97hQ1gZ2HX2cItOrNxWdIiun3mxBK0r7mlekNFtkek34vuh20M9TVd4ZCg6TnU3+zIg==",
+  "_location": "/@handsontable/react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@handsontable/react",
+    "name": "@handsontable/react",
+    "escapedName": "@handsontable%2freact",
+    "scope": "@handsontable",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@handsontable/react/-/react-2.0.0.tgz",
+  "_shasum": "30d9c2bd05421588a6ed1b3050b1f7dc476b35d3",
+  "_spec": "@handsontable/react",
+  "_where": "C:\\dev\\quickscan",
+  "author": {
+    "name": "Handsoncode",
+    "email": "hello@handsoncode.net",
+    "url": "https://handsoncode.net"
+  },
+  "browser": "./dist/react-handsontable.js",
+  "bugs": {
+    "url": "https://github.com/handsontable/react-handsontable/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Best Data Grid for React with Spreadsheet Look and Feel.",
+  "homepage": "https://handsontable.com",
+  "keywords": [
+    "handsontable",
+    "component",
+    "grid",
+    "data",
+    "table",
+    "data table",
+    "data grid",
+    "spreadsheet",
+    "sheet",
+    "excel",
+    "react",
+    "reactjs",
+    "react component",
+    "react grid",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "main": "./commonjs/react-handsontable.js",
+  "module": "./es/react-handsontable.js",
+  "name": "@handsontable/react",
+  "peerDependencies": {
+    "handsontable": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handsontable/react-handsontable.git"
+  },
+  "types": "./index.d.ts",
+  "version": "2.0.0"
+}
